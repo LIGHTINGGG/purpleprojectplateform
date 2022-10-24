@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "plateform_jules", "plateform_jules\plateform_jules.csproj", "{FB3E2AEB-B407-49B8-BDE8-3DE75430BB04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB3E2AEB-B407-49B8-BDE8-3DE75430BB04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB3E2AEB-B407-49B8-BDE8-3DE75430BB04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB3E2AEB-B407-49B8-BDE8-3DE75430BB04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB3E2AEB-B407-49B8-BDE8-3DE75430BB04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0CCAFB7-142F-4130-BDBA-612F89DF3CF2}
+	EndGlobalSection
+EndGlobal
